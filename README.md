@@ -15,4 +15,6 @@ Using OpenCV and the USB microscope, a quick test of the model performance can b
 age_1704263375616](https://github.com/chris199713/Power_electronics_fault_detection/assets/53930769/33f8e1b4-6c40-49d5-949f-386a494c2e1c)
 ![messageImage_1704262978300](https://github.com/chris199713/Power_electronics_fault_detection/assets/53930769/45fbd857-3ef3-40df-821b-a466dbf26c2d)
 ![messageImage_1704264009792](https://github.com/chris199713/Power_electronics_fault_detection/assets/53930769/1c2faa04-c7b2-4f7f-9158-b74070a4acf6)
-# Reference
+# Acknowledgements
+Resources I used for this project
+[Labelimg](https://github.com/HumanSignal/labelImg)
