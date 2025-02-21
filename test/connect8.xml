@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw_image</folder>
+	<filename>connect8.jpg</filename>
+	<path>C:\Users\User\Desktop\Side_project\Computer_vision\Tensorflow\RealTimeObjectDetection\Tensorflow\power_electronic_workspace\image\raw_image\connect8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>connect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>72</ymin>
+			<xmax>261</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>
